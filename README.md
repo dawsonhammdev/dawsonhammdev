@@ -9,3 +9,5 @@
 - 📫 How to reach me: ... https://dawsonhamm.com
 - ⚡ Fun fact: ... I can play three instruments
 -->
+
+[![Dawson's github stats](https://github-readme-stats.vercel.app/api?username=dawsonhammdev)](https://github.com/dawsonhammdev/github-readme-stats)
